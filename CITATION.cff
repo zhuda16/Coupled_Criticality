@@ -10,6 +10,7 @@ authors:
 repository-code: "https://github.com/zhuda16/Coupled_Criticality"
 url: "https://github.com/zhuda16/Coupled_Criticality"
 version: 1.0.0
+license: MIT
 abstract: >-
   Code and compact data for reproducing selected quantitative results of the
   accompanying study. The release contains notebooks for Figures 1-4 and a

@@ -55,7 +55,7 @@ The notebook trains from scratch; `output/Tempotron_cri_result.npz` and `Tempotr
 
 [metadata.json](data/tempotron_cri/metadata.json) records the parameters and hashes of all 100 original spike files. `original_project/` in the manifest denotes the original project root, whose data were copied into this release; it is not a runtime dependency. The verification compares every exported spike and neuron ID to source, checks that the original training function is unchanged, executes the notebook outside the research repository, and confirms a repeated seeded fit is identical.
 
-`analysis_core.py` contains verbatim original function bodies with minimal imports. `figure1_demo.py` retains original fitting/sampling/plotting helpers and layout, with portable input loading. The other small adapters retain the source calculations and arrange only the requested panels. `programe/powerlaw.py` is the exact original project copy, with its MIT copyright/license notice preserved. No license for the authors' code/data has been invented here; add the authors' chosen license before public distribution.
+`analysis_core.py` contains verbatim original function bodies with minimal imports. `figure1_demo.py` retains original fitting/sampling/plotting helpers and layout, with portable input loading. The other small adapters retain the source calculations and arrange only the requested panels. The authors' code is released under the [MIT License](LICENSE). `programe/powerlaw.py` retains Jeff Alstott's original MIT copyright/license notice.
 
 ## Validation
 

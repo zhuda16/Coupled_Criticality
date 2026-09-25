@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this code archive."
+type: software
+title: "Inter-areal coupling reshapes neural criticality in heterogeneous circuits to enable effective signal representation and transmission"
+authors:
+  - family-names: Yang
+    given-names: Zhuda
+  - family-names: Zhou
+    given-names: Changsong
+repository-code: "https://github.com/zhuda16/Coupled_Criticality"
+url: "https://github.com/zhuda16/Coupled_Criticality"
+version: 1.0.0
+abstract: >-
+  Code and compact data for reproducing selected quantitative results of the
+  accompanying study. The release contains notebooks for Figures 1-4 and a
+  critical-state Tempotron training example. Figure 3 uses the finalized
+  20-network, six-signal analysis, including quantitative panels B-E.
+keywords:
+  - neural criticality
+  - coupled neural circuits
+  - neuronal avalanches
+  - signal representation
+  - Tempotron

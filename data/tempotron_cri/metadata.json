@@ -1,0 +1,538 @@
+{
+  "lbi_index": 10,
+  "g_EI_scale": 1.0895,
+  "tau_di_ms": [
+    12.5,
+    5.0
+  ],
+  "network_realization": 0,
+  "signals": [
+    9,
+    4
+  ],
+  "n_trials_per_signal": 100,
+  "train_trials": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "test_trials": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "raw_time_window_ms": [
+    0,
+    150
+  ],
+  "readout_input_window_ms": [
+    50,
+    150
+  ],
+  "voltage_grid_ms": "50, 51, ..., 149",
+  "source_data_variant": "subsample",
+  "neurons_per_region": 1600,
+  "selected_neurons_per_region": 800,
+  "neuron_sampling_seed": 20260909,
+  "weight_seed": 20260909,
+  "source_files": [
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[0]_subsample.npy",
+      "sha256": "2afabb0dfce3fd8fbc0bd24cb9d88fffc5470392e0e9c220a2538d45b3ecac1e"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[1]_subsample.npy",
+      "sha256": "965da450c60ec37665faf12292a9f60a7241b4026f3028a0d89f99d0c83aff78"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[2]_subsample.npy",
+      "sha256": "4e52d8d3bb40d2492fc5845e80cf2f0f3c16ebf5c733eed97d3724eea0995b4e"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[3]_subsample.npy",
+      "sha256": "bd92fb0e792a455b7b9246217ff7613640533b5a6525b54b20814f03ef4d5601"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[4]_subsample.npy",
+      "sha256": "70b384f19571a26196e49d7d2812c7e5652c47f4fd2ca603310c501b9a21b26f"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[5]_subsample.npy",
+      "sha256": "05ae13b0e59c3d4623512d45d25831fac0f59abba08f0bf8269266481c9c5411"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[6]_subsample.npy",
+      "sha256": "35b59c5d783e04b2e0c98ce6638300c4dbc8efc69ac9bc863c82d3fd08252fa4"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[7]_subsample.npy",
+      "sha256": "7beee1e8e1433b120bc6c28dbaecc63482f249628688d2ff2179b156916db1fd"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[8]_subsample.npy",
+      "sha256": "b4f0c0f846db4e2fd0969fa4bc6a5d744f20a8a5b482aa1efcfff016e4aa7e6b"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[9]_subsample.npy",
+      "sha256": "77a46e71b55a7a68f0b21d42fbc682758c8062934d0fe3453f69e11ec6ee890e"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[10]_subsample.npy",
+      "sha256": "bac3b035c7a4f8a71953da0d37d6b4b7853d84fa3dbf20ac778fb5268331c02e"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[11]_subsample.npy",
+      "sha256": "2855747802ff43fcf79c8b48ec4499de78697818e81559b8be6d6515b7b785e3"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[12]_subsample.npy",
+      "sha256": "e81cb926f77f07310796bcded31e2e50121c80f001aa7115dea64380a13655a5"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[13]_subsample.npy",
+      "sha256": "143ee4e530204a9a58a1b223b6813795e6db1f2bac45f92d868367a8d206a14c"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[14]_subsample.npy",
+      "sha256": "d09741c035fc363cf145920b884f82efef61f7439035fce223f72700569e0f80"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[15]_subsample.npy",
+      "sha256": "253c72d14c8fd2d388adc915a57e548620bb4c98718a98c94b0069260109e371"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[16]_subsample.npy",
+      "sha256": "ff0eddde48af9b53343932d5ff28693f14fb6207e7c5cde5f6a40fbefcb41a40"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[17]_subsample.npy",
+      "sha256": "e4cd79443d31a51cc716935ec50191c61cbe37e93a1a0567fb50f24ac94073b4"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[18]_subsample.npy",
+      "sha256": "f1f8486b95ba7fc49d05d44b5c08eb686725deb5634ddcd8385169189f919cee"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[19]_subsample.npy",
+      "sha256": "2bd2957978c91e29e08126fc737768a33c17c784a940de1c78658851b2478962"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[20]_subsample.npy",
+      "sha256": "2d0394d20e9d14c3efff271d249f0df8ee5eb652d04d4eef2cd6c4b94312d027"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[21]_subsample.npy",
+      "sha256": "416c149e38f51b0df762dcf817cfcbdf957f07dfa53b1553a641c7fb7e695517"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[22]_subsample.npy",
+      "sha256": "f0a1a3927369e03cf16ed5c79d1e4c2f83f689210cb0847cb2ca92cbbf6f32dc"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[23]_subsample.npy",
+      "sha256": "435f1fa341a765c0fef9bb0803cfce428545e3c9a14f1fa0aa0af54dfe0c71f8"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[24]_subsample.npy",
+      "sha256": "f71fca996bd46e75598510b31a02fa29098bf704fd8f5ae100cfc0b0557859bc"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[25]_subsample.npy",
+      "sha256": "438e2fe5fcf871bbb633f207f24a3dee4d40751a750276d59294aedbf1d29f06"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[26]_subsample.npy",
+      "sha256": "b7c1c7f4808bca1d6f5b42c63c097caa771e1d1909d59c6377d8bfe8683bf768"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[27]_subsample.npy",
+      "sha256": "a10d56241b2b3f8905178e1107b9ba2e0dc3bb8538968416d6d21158dd081c40"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[28]_subsample.npy",
+      "sha256": "2d0bbe7ff30794bfa30151513a6d7282f690b899a2b0a8e0a0f5bc8cd278c30c"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[29]_subsample.npy",
+      "sha256": "05cb6566a51c984d5a6cdff4e3f213efb5c02230aa6fc7f54f81cdb4fee6f96c"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[30]_subsample.npy",
+      "sha256": "2b3707dc60dfae180f23fa33958057d482937bb1e5b13850dacfa02396d40e20"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[31]_subsample.npy",
+      "sha256": "937583601b000198b1f8bec8c5d6ebb90e762f4a74ac3f5f7134739f067dc513"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[32]_subsample.npy",
+      "sha256": "73689324f70b9031b791acfbc4b8267eee613b6ac8059fff7259cf9e53e36119"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[33]_subsample.npy",
+      "sha256": "2f8421f07589654fe23db9aa850608ed4b2c56ffac421798de040df09ccacf46"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[34]_subsample.npy",
+      "sha256": "a52abf37219a55aaa479da3753df780c52fdc17482cef17dbfe8de0cbcfbbfef"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[35]_subsample.npy",
+      "sha256": "41a2e5669ed09427e8d5303c4963a795cc9506565197d7228bb01e04840096b7"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[36]_subsample.npy",
+      "sha256": "100f35305652c2a2cab3d7eaa69e80b7c40135bcb3e21e038458bd979d86fcad"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[37]_subsample.npy",
+      "sha256": "68aafb98cb80a690d6554cd144e7168cd05a87179306db2bf45675d240855ec4"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[38]_subsample.npy",
+      "sha256": "5cb2a40ada97228a8d4b0755864cfe7f803f4fe834e983c4382eebf3c34a3e4a"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[39]_subsample.npy",
+      "sha256": "32b1ed22469633b431f4718bac0df428f98b9033faeeca93286568ef94630d76"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[40]_subsample.npy",
+      "sha256": "4cc1b962fe74d1f262a13fc2821f6781df8f5876f2863d3b35ceac77b3989910"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[41]_subsample.npy",
+      "sha256": "7337bf8973d097a3e033c2197707fbd12ce6cc245ac888c8ffcaade9ef91199d"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[42]_subsample.npy",
+      "sha256": "c878b8f27c72e26cfa98f05b887b222c2911cde96d8917800a9ad639a05572aa"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[43]_subsample.npy",
+      "sha256": "06165ef5008d8b97d84394c35d995e021cac37b09aeb99dac6db2a779bd1eeb6"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[44]_subsample.npy",
+      "sha256": "e0d47e72873f46da181e47141439021ba1fae8ce80f18bf5dcdd2bf27c40fbfd"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[45]_subsample.npy",
+      "sha256": "544122d141ce8572c22bdf8870b04a0f03a0d3d0d1dcfb122d8ebea19380c707"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[46]_subsample.npy",
+      "sha256": "421429b01b827b3719b64a96f528bad9a20f8dc877ced7d082f071d79139e540"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[47]_subsample.npy",
+      "sha256": "ab755dd5d4de7e44c9db934c40a96ac0364230112f85b82ceec452ba199e3acc"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[48]_subsample.npy",
+      "sha256": "9f07adb3ba152d71c2a5d321c0b137f63db059c2ad1ef069adf0cbd6140ecfd1"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[49]_subsample.npy",
+      "sha256": "640db549ba09cc6dee932cfa24491cf5e50d847c4994c45b95bfe61371f36cda"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[50]_subsample.npy",
+      "sha256": "ac9cb99a6f48a1aff2240216c4244263fbbab57fa64e96bc4f342db7095a1ae9"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[51]_subsample.npy",
+      "sha256": "7049e7a6470a94ef3185c506ff0e8de8cc2fb8c100cd3bf4093374a2475e7956"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[52]_subsample.npy",
+      "sha256": "93b3b799f1503193c279b0e4f959e191783bcf65fcfea4efefaa9572984d6d15"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[53]_subsample.npy",
+      "sha256": "58ceea7ffbb40b26814cdea32e8db18adfcc4cf41a6e2fcb484dc9164ceab76e"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[54]_subsample.npy",
+      "sha256": "fc32259b16d51385fa65ef4525d079efe47cd1d0ef4629c4c83ad31dd60d3fb9"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[55]_subsample.npy",
+      "sha256": "8ec8089c979ff891d63145e213ab92b887b1a96c65280bde5b6c59bf8dece449"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[56]_subsample.npy",
+      "sha256": "cd2e8a3b8a31790cf76a21982f1714f9d44b37a6439a39a1a88e44ac644517bd"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[57]_subsample.npy",
+      "sha256": "e8e0d68c9aaa8eb0f36fdd5c0c81f4d0fb9354b87988a40f7009491c82103f1d"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[58]_subsample.npy",
+      "sha256": "e1c701f2e6edd886c1f9a82d0aec51b746856c8210501d98a3de5da0b7416240"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[59]_subsample.npy",
+      "sha256": "5189f09e04d14e857e61adfe9268fe77ab710be1b88b4cc64494a40da35dc30b"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[60]_subsample.npy",
+      "sha256": "954163330eb65e5978661784853a3d85560ac94fad1658d4efbd9a68d802d080"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[61]_subsample.npy",
+      "sha256": "987c99f9ea2341161b1d604d4982652f9bad5c4b79c9c823e21728d775b3e40e"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[62]_subsample.npy",
+      "sha256": "ad2b96410e08af1a3ad215dcb09dc8463a353273d15867b0109a096dadec8b67"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[63]_subsample.npy",
+      "sha256": "d5598bcbfd0327b8a87b9c8cb6ae813c4bca8911f8b1e095b0429c22ef3a4175"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[64]_subsample.npy",
+      "sha256": "3dbb6fab103e8db8d7648793b4a951d55721c12bce2f8bd5cf2cbc5ae29c655f"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[65]_subsample.npy",
+      "sha256": "d7b67f3f1fd225c324463cf072279e0fedb102ddeddf8533577f236c4d3ae879"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[66]_subsample.npy",
+      "sha256": "22a8db04a20a3aefdcbc5cb92bb56a9b875e5097d8ed33bdde1ecec1ece4999d"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[67]_subsample.npy",
+      "sha256": "b3f3b207456548146848401e9068ccf67572bf56998fa52636d18e018da9856b"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[68]_subsample.npy",
+      "sha256": "dccdb722178236715c0e6442d8ed1c9950b4824778397d130e1c40f7a0d56063"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[69]_subsample.npy",
+      "sha256": "88959bf791b617ed8883bb48bd8b0b9cbd46deb5dc0a5b387f0ba0ee8ea77ad5"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[70]_subsample.npy",
+      "sha256": "4fa7c4d18cb0716b9caf3c593047e0bca3782991451414126fe77790eaa91195"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[71]_subsample.npy",
+      "sha256": "832608ba5b69e59d6500a0ec7b09f8cd8682b349856e3588cb6815eff1e951e6"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[72]_subsample.npy",
+      "sha256": "964eaf956fd2acb508d56fc600bd7b34592d7f8a90f59dd61945cf7f4558543c"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[73]_subsample.npy",
+      "sha256": "41255ff1752b13cbd9daff74fbc74c9ee422ff27dda167320eb285ac8820285f"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[74]_subsample.npy",
+      "sha256": "82d84099d99fa94f025a430fb101fb833bebb67e4b5e55ed409bdc9098d50b33"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[75]_subsample.npy",
+      "sha256": "cd40c06c159dd4535606282697a29cf9be621e39dd55ba24aab0b8b216142b36"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[76]_subsample.npy",
+      "sha256": "de7dd7a81269655adc92b57137d4e8b42d311d2fd5adbac72b782dd1d29623ab"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[77]_subsample.npy",
+      "sha256": "e25e48ca46d5216851457416e31c30fa613d7fb31d9fd28da843ddb88f534c49"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[78]_subsample.npy",
+      "sha256": "f44e91800100f8b7cad4a735a88b16c771e797a6ebd57f179e507f16a7e38cab"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[79]_subsample.npy",
+      "sha256": "fb67a23cd4793c765755962ffe76c0dfff8b516a693779bead472b8c201838a9"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[80]_subsample.npy",
+      "sha256": "50d6a870abbb44340e68c34e7fb73bbb98a390261f7de8e39ece0354f3cd9ce5"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[81]_subsample.npy",
+      "sha256": "c30945c895839beb338bcf996cadba41444dcc90f646ced7480426fe88d495d5"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[82]_subsample.npy",
+      "sha256": "0a1e35dcf71628ed853e05c8048d9c3e9654943a5a6c537bf863b4dc94b9cf78"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[83]_subsample.npy",
+      "sha256": "79589777fba0a5e6e2db7a7c5f167cf9c59252d3e73169bdd877e4768b3f0175"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[84]_subsample.npy",
+      "sha256": "b064572834908ab0522c3f2c29dd859639a726764ad5e048657e937e01135e69"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[85]_subsample.npy",
+      "sha256": "588c0447576f5ac23e5867f5464a765e907ff017fe51de0bd5853f905ceee72d"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[86]_subsample.npy",
+      "sha256": "98df1c1dd281b67563da5a9d258b3d20cfcc892d7bae62b57fd6ea68db8ff2c1"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[87]_subsample.npy",
+      "sha256": "e156bcf9fd1b5df47bf0c3769ff8235c5c64e6aea190d8f4a8914eb678f98b06"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[88]_subsample.npy",
+      "sha256": "ab0798a32936a73428d1de821c50ae9afb2e78223bfc1f8ca5fb9e5c512d11e6"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[89]_subsample.npy",
+      "sha256": "1d958e459a24c0fe9b99c8c63f5b9bb3a1dfa19ef7d559d571f465cb99a7363d"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[90]_subsample.npy",
+      "sha256": "ec0be20c6bd19ac695b7fc43f0db80af94838520b3e06351dcb537389e65fd26"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[91]_subsample.npy",
+      "sha256": "1c927e2877588762112f0f5b72c93e6d27beedea8561301f4582d9fec6faba18"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[92]_subsample.npy",
+      "sha256": "0767aa66b4386e29687f6bad5f049613a167a1dec2cc5c97f553a04f80b2103b"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[93]_subsample.npy",
+      "sha256": "ae20616f13a9961a170a44caf6b90d59b3e2c122bd3cd3c7ea117fe3108c269f"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[94]_subsample.npy",
+      "sha256": "331b40072345a4710e4beb49ca6eee2f4e6f1caf8fa54415e77ba016d1cee6cf"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[95]_subsample.npy",
+      "sha256": "c36e5cf3a49f9195308cf8363b1fd060666cc6d9c2b7aac4eaf2ef3a23762054"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[96]_subsample.npy",
+      "sha256": "55d023395de99fdd026dc010de6222cc9472deca1176c16d967da8bf76ead82e"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[97]_subsample.npy",
+      "sha256": "6cc95682a2032fc85a576536d3b9af5a1e50d1c64124ab2fc99b833b5618660d"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[98]_subsample.npy",
+      "sha256": "300f8647d27ace5c9ba1c38511e357fb03ecdbfac4e7299c824eb178653a26d0"
+    },
+    {
+      "path": "Analysis_CoupledCri_2026/Data_CoupledSpikeTime_reliability/hete_Net[0]CoupleNetReliability_GBE2_LBI[10]_trial[99]_subsample.npy",
+      "sha256": "0d7b3fe8b004f27803c3fa1106b9ad827f468c757adfab4a3f6fddc30ee86492"
+    }
+  ],
+  "historical_pair_source": "Analysis_CoupledCri_2026/Data_CoupledTemptron/Temptron_data_net0_subsample_trial0.pkl",
+  "historical_pair_source_sha256": "0d9d0238c379eeb5d9d6d98b14c7784a7cb2043e37b13bd4c636a0e03561a085",
+  "historical_accuracy": 0.8375,
+  "note": "Same signal pair as the archived net0 training replicate 0. Original neuron choices and weight seed were not saved; this is a new seeded demo, not an exact repeat of that trained model. All E spikes for both regions are supplied, before time-window filtering or neuron subsampling. I spike arrays were empty in the source."
+}

@@ -1,0 +1,9 @@
+{
+  "B": "subsample; direction peak; 10 neuron samples averaged per pair; 15 pairs averaged per network; n=20 networks",
+  "C": "fixed demo network 17; first 10 PCs then best 3-PC subset; matched uncoupled/coupled network; 100 trials/signal; avalanche masks; standardized PCA",
+  "C_selected_network": 17,
+  "C_uncoupled_silhouette": -0.12170147150754929,
+  "C_coupled_silhouette": 0.28331562876701355,
+  "D": "20 networks, six-signal dataset; silhouette averaged over all fifteen 4-of-6 subsets; line=mean and band=SD across networks",
+  "E": "same Tempotron metric as B; line=mean and band=population SD across 20 networks"
+}

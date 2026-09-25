@@ -1,0 +1,107 @@
+{
+  "figure1": {
+    "passed": true,
+    "values": {
+      "local_source": 877691,
+      "local_sampled": 877691,
+      "sub_source": 1042518,
+      "sub_sampled": 877691,
+      "sup_source": 559093,
+      "sup_sampled": 559093,
+      "merged_source": 1871602,
+      "merged_sampled": 877691,
+      "gamma_local": 1.249967257715498,
+      "gamma_merged": 1.2634151810490457,
+      "merged_size_alpha": 2.7619751070111698,
+      "merged_duration_alpha": 3.2261060988284287,
+      "sampling_seed": 20260625
+    }
+  },
+  "figure2": {
+    "passed": true,
+    "combined_events": 1040369,
+    "point": {
+      "g_EI_scale": 1.0942105263157895,
+      "sigma_e": [
+        1.9575774533008126,
+        2.0820586413195397
+      ],
+      "sigma_i": [
+        2.3843435557799535,
+        2.4729494187220356
+      ],
+      "raw_max_real_eigenvalue": -0.049540042149835616,
+      "source_plot_offset": 0.04,
+      "source_plotted_eigenvalue": -0.009540042149835615
+    }
+  },
+  "figure3": {
+    "passed": true,
+    "networks": 20,
+    "signals": 6,
+    "panel_d_band": "mean +/- sample SD across networks",
+    "panel_e_band": "mean +/- population SD across networks",
+    "panel_c_demo_network": 17,
+    "panel_c_selected_pc_indices_one_based": {
+      "uncoupled": [3, 5, 6],
+      "coupled": [4, 6, 8]
+    },
+    "panel_c_samples_per_condition": 600,
+    "included_panels": "B-E",
+    "full_output_pixels": [3750, 2500],
+    "qa_errors": 0
+  },
+  "figure4": {
+    "passed": true,
+    "comparisons": {
+      "no_region0": {
+        "samples": 387,
+        "selected_pc_indices_zero_based": [
+          1,
+          2,
+          3
+        ],
+        "silhouette": 0.565081062258234
+      },
+      "no_region1": {
+        "samples": 371,
+        "selected_pc_indices_zero_based": [
+          1,
+          6,
+          8
+        ],
+        "silhouette": -0.075088190305491
+      },
+      "spatial_mixture_region0": {
+        "samples": 376,
+        "selected_pc_indices_zero_based": [
+          2,
+          3,
+          4
+        ],
+        "silhouette": 0.6374480919011694
+      },
+      "spatial_mixture_region1": {
+        "samples": 377,
+        "selected_pc_indices_zero_based": [
+          2,
+          3,
+          4
+        ],
+        "silhouette": 0.37115671911984044
+      }
+    }
+  },
+  "original_core_functions_unchanged": true,
+  "powerlaw_copy_byte_identical": true,
+  "tempotron_cri": {
+    "passed": true,
+    "source_files_verified": 100,
+    "original_training_function_unchanged": true,
+    "independent_directory": true,
+    "repeated_fit_bit_identical": true,
+    "accuracy": 0.80625,
+    "updates": 12,
+    "source_note": "New seeded fit; not asserted to equal the historical trained model."
+  }
+}

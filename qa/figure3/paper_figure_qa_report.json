@@ -1,0 +1,22 @@
+{
+  "figures": 1,
+  "findings": [
+    {
+      "severity": "warning",
+      "code": "panel_label_alignment",
+      "figure": 1,
+      "message": "Panel labels are not aligned consistently relative to their axes.",
+      "detail": "relative_x_range=-0.20-0.85, relative_y_range=-1.25-0.12"
+    },
+    {
+      "severity": "warning",
+      "code": "axes_overlap",
+      "figure": 1,
+      "message": "Axes drawing regions overlap.",
+      "detail": "axis 4 overlaps axis 5"
+    }
+  ],
+  "previews": [
+    "qa\\figure3\\figure_1_qa_preview.png"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Compact plotting inputs for the final N=20, six-signal Figure 3B-E.",
+  "figure3b_network_values.csv": {
+    "sha256": "633e126be688079467860e281bd68a3028fed17f554ab2d2a50c21f0ad1de204",
+    "contents": "Direction-peak Tempotron accuracy after neuron subsampling; 15 signal pairs averaged within each of 20 networks."
+  },
+  "figure3c_projection_points.csv": {
+    "sha256": "c1d641e7e2550fed411dc5c4de6af8d04a4e965856e7a806bbc00bed93b8caf0",
+    "contents": "Displayed coordinates for network 17; six signals x 100 trials for uncoupled and coupled heterogeneous networks."
+  },
+  "figure3d_summary.csv": {
+    "sha256": "b5f4577e7a96dff671a6e518ece3fd610448b7702f864f33de71f7e7543828bc",
+    "contents": "Silhouette and avalanche-reliability mean, SD and SEM across 20 networks at 20 coupling values."
+  },
+  "figure3e_network_curves.csv": {
+    "sha256": "04f405716f810666fead181c8e5e908de125b6ef3882b1af844d1c049a6b9b91",
+    "contents": "Direction-peak Tempotron accuracy for each of 20 networks at 20 coupling values."
+  },
+  "analysis_metadata.json": {
+    "sha256": "abc387b0477f4a4330fc7d5bae3e113346cb86affd77e5952ef8ed40bc49921a",
+    "contents": "Analysis choices and Figure 3C silhouette values."
+  }
+}

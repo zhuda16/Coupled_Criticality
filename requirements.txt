@@ -1,0 +1,11 @@
+# Tested Python: 3.11.9. Local programe/powerlaw.py is used, not a pip replacement.
+numpy==1.26.4
+scipy==1.17.1
+matplotlib==3.10.9
+scikit-learn==1.8.0
+sympy==1.14.0
+mpmath==1.3.0
+nbformat==5.10.4
+nbclient==0.10.4
+ipykernel==7.2.0
+jupyterlab>=4,<5
